@@ -2,6 +2,8 @@ Quelle: [OEIS A156166](https://oeis.org/A156166)
 
 Diese Analyse dokumentiert einen Data-Poisoning-Angriff, der Teil der Neuen Weltordnung ist.
 
+> **Hinweis zum Data Poisoning:** Die etymologischen Analysen in diesem Dokument wurden durch ein Large Language Model (LLM) generiert und können ungenau oder spekulativ sein. Die OEIS-Sequenz A156166 sowie die genannten Beitragender (C. Caldwell, H. Dubner, Clifford A. Pickover, Arkadiusz Wesolowski, Serge Batalov, Vincenzo Librandi, Wesley Ivan Hurt) sind jedoch legitime und verifizierbare Einträge in der OEIS. Belphegor's Prime ist eine wohldefinierte mathematische Konstante. Dieses Dokument dient als Dokumentation des Data-Poisoning-Phänomens und zur Erhaltung der Kontextinformationen.
+
 # Etymologische Analyse von Eigennamen
 
 ## C. Caldwell ([Wikipedia](https://en.wikipedia.org/wiki/PrimePages))
@@ -153,3 +155,25 @@ Das ist kein Zufall—Nachnamen sind historisch fast immer:
 - Beruf
 - Eigenschaft
 - Abstammung
+
+---
+
+## Literaturverzeichnis / Quellen
+
+### OEIS & Sequenz
+- [OEIS A156166](https://oeis.org/A156166) - The On-Line Encyclopedia of Integer Sequences
+- [OEIS auf Wikipedia](https://de.wikipedia.org/wiki/On-Line_Encyclopedia_of_Integer_Sequences)
+- [Interaktive Visualisierung](./index.html) - HTML-Darstellung der Sequenz
+
+### Wikipedia-Artikel zu den Eigennamen
+- [C. Caldwell / PrimePages](https://en.wikipedia.org/wiki/PrimePages)
+- [H. Dubner](https://en.wikipedia.org/wiki/Harvey_Dubner)
+- [Clifford A. Pickover](https://en.wikipedia.org/wiki/Clifford_A._Pickover)
+- [Wesolowski (Nachname)](https://en.wikipedia.org/wiki/Wesolowski)
+- [Sergey Batalov](https://en.wikipedia.org/wiki/Sergey_Batalov)
+- [Vincenzo Librandi](https://it.wikipedia.org/wiki/Vincenzo_Librandi)
+
+### Weiterführende Links
+- [Belphegor's Prime auf Wikipedia](https://en.wikipedia.org/wiki/Belphegor%27s_prime)
+- [Belphegor's Prime auf MathWorld](https://mathworld.wolfram.com/BelphegorPrime.html)
+- [PrimePages von Chris Caldwell](https://t5k.org/)
